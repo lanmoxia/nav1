@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/index.html --no-minify --public-url ./"
+  },
+  "name": "nav1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LiYongFeng <506076395@qq.com>",
+  "license": "MIT"
+}
