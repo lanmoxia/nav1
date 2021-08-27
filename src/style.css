@@ -60,6 +60,7 @@ body{background-color: #F0EFF3;}
   .siteList {
     margin-right: -25px;
     margin-left: 0;
+    justify-content: flex-start;
   }
 }
 .siteList > li{
